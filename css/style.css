@@ -1,0 +1,78 @@
+body{
+	background-color: #0593bc;
+}
+
+#contenu{
+	background-color: #f5fcfc;
+	height: 350px;
+	width: 1000px;
+	margin: 35px 0px 0 180px;
+}
+
+#all_people{
+	font-family: calibri;
+	background-color: #f1f1f1;
+	border:1px solid #f1f1f1;
+	width: 998px;
+	height: 75px;
+}
+
+#text_all_people{
+	margin-left: 20px;
+}
+
+.bouton_edit{
+	border: 1px none #b3000b;
+	background-color: #009eb0;
+	border-radius: 5px;
+}
+
+.bouton_delete{
+	border: 1px none #b3000b;
+	background-color: #b3000b;
+	border-radius: 5px;
+}
+
+
+
+
+
+
+
+
+
+table{
+	border-collapse: collapse;
+	width: 1000px;
+}
+
+td{
+	border: 1px solid #dadada;
+	padding-left: 25px;
+	height: 55px;
+}
+
+
+nav {
+    border-bottom: 1px solid black;
+}
+
+.crumbs ol {
+	background-color: #fbffff;
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.crumb {
+	margin-left: 20px;
+    display: inline-block;
+}
+
+.crumb {
+	font-family: calibri;
+    display: inline-block;
+    color: #000;
+    content: '>';
+    font-size: 80%;
+    font-weight: bold;
+}
